@@ -1,4 +1,4 @@
-# 👨‍💻 Israel Matheus
+# 👨‍💻 Israel
 
 **`Backend Dev`**
 
@@ -6,7 +6,7 @@ My name is Israel and I was born in São Paulo, Brazil. I am completing a techni
 
 ---
 
-### 🤖 Languages, Technologies & Tools
+### 🤖 Tech Stack:
 
 <img 
     align="left" 
@@ -39,7 +39,7 @@ My name is Israel and I was born in São Paulo, Brazil. I am completing a techni
 <br/>
 <br/>
 
-### 📊 Statistics
+### 📊 GitHub Stats:
 
 <p>
   <img 
