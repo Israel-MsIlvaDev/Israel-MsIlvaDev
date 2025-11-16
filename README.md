@@ -1,6 +1,6 @@
 # 👨‍💻 Israel Matheus
 
-**`Back end Dev`**
+**`Backend Dev`**
 
 My name is Israel and I was born in São Paulo, Brazil. I am completing a technical course in Systems Development at Centro Paula Souza and I am currently pursuing a bachelor's degree in Computer Science at FIAP.
 
